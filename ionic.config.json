@@ -1,0 +1,7 @@
+{
+  "name": "caching",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
